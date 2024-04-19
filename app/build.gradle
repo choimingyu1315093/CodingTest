@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace 'net.hicare.hicaretest'
+    namespace 'com.choimingyu.hicarenettest'
     compileSdk 34
 
     defaultConfig {
-        applicationId "net.hicare.hicaretest"
+        applicationId "com.choimingyu.hicarenettest"
         minSdk 30
         targetSdk 34
         versionCode 1

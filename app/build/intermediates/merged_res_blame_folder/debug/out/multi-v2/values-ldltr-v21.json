@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.choimingyu.hicarenettest.app-mergeDebugResources-72:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/choimingyu/.gradle/caches/transforms-3/1c9d32be5333837d56b96a543af2c602/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

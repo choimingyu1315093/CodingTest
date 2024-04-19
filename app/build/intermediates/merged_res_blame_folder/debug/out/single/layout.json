@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/choimingyu/.gradle/daemon/7.4/com.choimingyu.hicarenettest.app-mergeDebugResources-73:/layout/fragment_first.xml",
+        "source": "/Users/choimingyu/.gradle/daemon/7.4/com.choimingyu.hicarenettest.app-main-76:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/choimingyu/.gradle/daemon/7.4/com.choimingyu.hicarenettest.app-mergeDebugResources-73:/layout/item_facility.xml",
+        "source": "/Users/choimingyu/.gradle/daemon/7.4/com.choimingyu.hicarenettest.app-main-76:/layout/item_facility.xml"
+    },
+    {
+        "merged": "/Users/choimingyu/.gradle/daemon/7.4/com.choimingyu.hicarenettest.app-mergeDebugResources-73:/layout/activity_main.xml",
+        "source": "/Users/choimingyu/.gradle/daemon/7.4/com.choimingyu.hicarenettest.app-main-76:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.choimingyu.hicarenettest.app-mergeDebugResources-73:/layout/item_facility.xml",
+        "source": "com.choimingyu.hicarenettest.app-main-76:/layout/item_facility.xml"
+    }
+]

@@ -6,7 +6,7 @@
     <data>
         <variable
             name="facility"
-            type="net.hicare.hicaretest.data.entity.FacilityEntity" />
+            type="com.choimingyu.hicarenettest.data.entity.FacilityEntity" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

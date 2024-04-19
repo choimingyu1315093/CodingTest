@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.choimingyu.hicarenettest.app-mergeDebugResources-72:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/choimingyu/.gradle/caches/transforms-3/1c9d32be5333837d56b96a543af2c602/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
